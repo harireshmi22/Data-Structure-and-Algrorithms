@@ -101,3 +101,5 @@ list.addlast(7);
 
 list.deleteNode(7);
 list.displayList(); 
+
+// Double linked list 
