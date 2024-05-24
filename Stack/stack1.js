@@ -1,4 +1,10 @@
 
-let a = 3; 
-let b = 4; 
-console.log((a + b)); 
+class Stack {
+    constructor() {
+    this.items = []; 
+    }
+
+    push(data) {
+        
+    }
+}
