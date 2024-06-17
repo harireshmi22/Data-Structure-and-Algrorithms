@@ -65,3 +65,5 @@ console.log("Stack size is:", stack.size());  // Output: Stack size is: 3
 stack.pop();  // Output: Popped 30 from stack
 stack.pop();  // Output: Popped 20 from stack
 console.log("Stack size is:", stack.size());  // Output: Stack size is: 1
+
+// question
